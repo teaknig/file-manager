@@ -1,0 +1,41 @@
+{
+  "name": "file-manager",
+  "version": "0.0.1",
+  "description": "simple file upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaknig/file-manager.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "input",
+    "dynamic",
+    "simple",
+    "js",
+    "web"
+  ],
+  "author": "Nurzhan Islambekov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teaknig/file-manager/issues"
+  },
+  "homepage": "https://github.com/teaknig/file-manager#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0",
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.0",
+    "ts-loader": "^9.2.2",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
